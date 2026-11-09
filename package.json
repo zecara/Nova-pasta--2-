@@ -1,0 +1,13 @@
+{
+  "name": "avp-pedro-anjos-workspace",
+  "private": true,
+  "scripts": {
+    "setup": "npm --prefix avp-pedro-anjos-2TIA run setup",
+    "start": "npm --prefix avp-pedro-anjos-2TIA start",
+    "dev": "npm --prefix avp-pedro-anjos-2TIA run dev",
+    "test": "npm --prefix avp-pedro-anjos-2TIA test",
+    "db:generate": "npm --prefix avp-pedro-anjos-2TIA run db:generate",
+    "db:migrate": "npm --prefix avp-pedro-anjos-2TIA run db:migrate",
+    "db:studio": "npm --prefix avp-pedro-anjos-2TIA run db:studio"
+  }
+}
